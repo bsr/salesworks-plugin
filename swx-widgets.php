@@ -6,7 +6,7 @@
 Plugin Name: SWX Widgets & Shortcodes
 Plugin URI: http://www.salesworks.com
 Description: Custom widgets and Shortcodes
-Version: 1.0
+Version: 1.1
 Author: Colin Greig
 Author URI: http://www.colingreig.com
 License: GPLv2 or later
