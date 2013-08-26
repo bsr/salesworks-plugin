@@ -1,0 +1,19 @@
+.meta-box label { 
+	float: left; 
+	width:25%; 
+	max-width: 150px;
+}
+.meta-box input { 
+	float: left; 
+	width: 60%;	
+}
+.meta-box  li {
+	clear: both;
+}
+.meta-box textarea {
+	width: 60%;
+	height: 200px;
+}
+.meta-box select {
+	width: 60%;
+}
