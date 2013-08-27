@@ -14,7 +14,7 @@ function is_ppc_traffic() {
 }
 // Grab PPC variables
 
-$company = 'NexTec Group';
+$company = 'Setup';
 $product = $_GET['product'];
 $location = $_GET['location'];
 $kw = $_GET['k'];
